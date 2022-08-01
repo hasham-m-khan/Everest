@@ -1,0 +1,5 @@
+Connecting to an EC2 instance through local terminal:
+$ ssh -i <absolute path to your pem file> ec2-user@<ec2 instance public ip address>
+
+*** IMPORTANT ***
+REMEMBER TO TERMINATE AN EC2 INSTANCE ONCE YOU ARE DONE WITH THE INSTANCE
